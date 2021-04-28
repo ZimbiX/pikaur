@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/actionless/pikaur/actions/workflows/tests.yml/badge.svg)](https://github.com/actionless/pikaur/actions/workflows/tests.yml) [![Coverage Status](https://coveralls.io/repos/github/actionless/pikaur/badge.svg?branch=master)](https://coveralls.io/github/actionless/pikaur?branch=master)
 
-AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+AUR helper with minimal dependencies. Review all PKGBUILDs at once, then build everything without user interaction.
 
 Inspired by `pacaur`, `yaourt` and `yay`.
 
